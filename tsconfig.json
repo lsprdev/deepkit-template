@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "target": "es6",
+    "module": "CommonJS",
+    "moduleResolution": "node"
+  },
+  "reflection": true,
+  "files": [
+    "app.ts"
+  ]
+}
